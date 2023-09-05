@@ -1,0 +1,1 @@
+GET / HTTP/1.5[crlf]Host: [rotate=cdn1.atechouse.com;cdn4.atechouse.com][crlf]backend: [random=backendgesiel;backend2ges2;backend3ges3][crlf]upgrade: websocket[crlf]connection: upgrade[crlf][crlf]
